@@ -145,6 +145,9 @@
     border: #F2F2F2 2px solid;
     width: 150px;
 }
+.ResultSearch-cont i{
+    padding: 2px 5px;
+}
 
 /****** MAIN CARDS *********/
 .hebergements-and-populaires {
