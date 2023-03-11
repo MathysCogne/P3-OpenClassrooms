@@ -1,0 +1,11 @@
+{
+  "name": "booki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prefix": "postcss ./css/font.css --use autoprefixer -d ./css/prefixed/"},
+  "author": "",
+  "license": "ISC",
+  "browserslist": "last 3 versions" 
+}
