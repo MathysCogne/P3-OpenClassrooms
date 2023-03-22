@@ -37,6 +37,9 @@ body {
 /**************************/
 /****** EFFETS ************/
 /**************************/
+html {
+	scroll-behavior: smooth;
+}
 .card, .card-act{
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
