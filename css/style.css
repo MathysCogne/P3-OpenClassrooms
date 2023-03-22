@@ -30,6 +30,9 @@ body {
 /**************************/
 /****** EFFETS ************/
 /**************************/
+html {
+	scroll-behavior: smooth;
+}
 .card, .card-act{
   transition: 0.5s;
 ;
